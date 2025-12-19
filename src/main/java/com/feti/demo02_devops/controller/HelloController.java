@@ -18,7 +18,7 @@ public class HelloController {
         return json;
 
     }
-
+     /*
     @GetMapping
     public String saludar() {
         return "¡Hola desde el controlador Spring Boot!";
@@ -32,5 +32,5 @@ public class HelloController {
         paises.put("CL", "Chile");
         paises.put("US", "Estados Unidos");
         return paises;
-    }
+    } */
 }
